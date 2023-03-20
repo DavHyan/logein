@@ -1,0 +1,36 @@
+
+body{
+    display: inline-block;
+}
+.conteiner{
+    display: flex;
+}
+.reegistracia{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 250px;
+    align-items: center;
+}
+#btn1{
+    width: 80px;
+}
+.btn{
+    text-align: center;
+    width: 100px;
+    height: 25px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(177, 27, 27);
+    border-radius: 20px;
+}
+
+.logeIn{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 250px;
+    align-items: center;
+}
+
